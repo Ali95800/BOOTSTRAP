@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+.container{
+    width: 60%;
+}
+.nav-item a{
+    right: 100px;
+}
+
+
+li a{
+    float: right;
+}
+.jumbotron{
+    background-color: rgb(255, 255, 255);
+    padding:30px;
+}
+.divcard { 
+    padding: 2px;
+    margin-left: 11px;
+    margin-top: 20px;    
+
+}
+.card{
+    display: block;
+    text-align: center;
+    float: left;
+    width: 290px;
+    margin-right: 15px;
+}
+
+.card a{
+    color: orangered;
+    font-size: 0.8rem;
+}
+.card:last-child{
+    margin-right: 1px;
+}
+
+.parag1{
+    width: 60%;
+    margin-top: 20px;
+}
+footer{
+    margin-top: 150px;
+}
+
+
+h2{
+    font-size: 1.5rem;
+}
+.p1{
+    font-size: 0.9em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
